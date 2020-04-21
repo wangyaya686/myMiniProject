@@ -5,3 +5,7 @@
 <view>我今年{{age}}</view>
 <view>😁😁😁😁😁😁逗你玩呢</view>
 
+<view>数量：{{counter}}</view>
+<button size="mini" bindtap="addNumber">+</button>
+<button size="mini" bindtap="cutNumber">-</button>
+
