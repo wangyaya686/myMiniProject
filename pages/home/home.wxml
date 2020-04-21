@@ -1,2 +1,7 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<view>欢迎来到首页哈哈哈哈哈哈😁</view>
+<!-- mustache双大括号语法 -->
+<view>我叫{{name}}</view>
+<view>我今年{{age}}</view>
+<view>😁😁😁😁😁😁逗你玩呢</view>
+
